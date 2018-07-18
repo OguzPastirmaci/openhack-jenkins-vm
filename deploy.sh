@@ -1,6 +1,6 @@
 #!/bin/bash
-export resourceGroup=team2jenkinsrg
-virtualMachine=team2jenkinsvm
+export resourceGroup=team2-jenkins-rg
+virtualMachine=team2-jenkins-vm
 adminUser=azureuser
 pathToKubeConfig=~/.kube/config
 
